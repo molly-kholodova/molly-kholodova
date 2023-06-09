@@ -1,9 +1,6 @@
 👋 Hi, I’m Molly (@molly-kholodova)
  
-About me:\
-PhD candidate specializing in environmental microbiology and biogeochemistry.\
-University of Waterloo, Department of Biology\
-molly.chen@uwaterloo.ca 
+PhD candidate specializing in environmental microbiology and biogeochemistry.
 
 I like to write scripts to process bioinformatics datasets (mainly genomic and metagenomic data). 
 
