@@ -1,8 +1,8 @@
 👋 Hi, I’m Molly (@molly-kholodova)
  
-PhD candidate specializing in environmental microbiology and biogeochemistry.
+PhD candidate specializing in bioinformatics, environmental microbiology and biogeochemistry.
 
-I like to write scripts to process bioinformatics datasets (mainly genomic and metagenomic data). 
+I like to write scripts to process sequencing data and create cool visualizations. 
 
 Also into auto-battler and other strategy games - interested in collabing on analytics tools!
 
