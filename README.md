@@ -6,7 +6,7 @@ I like to write scripts to process sequencing data and create cool visualization
 
 Also into auto-battler and other strategy games - interested in collabing on analytics tools!
 
-mollykholodova@gmail.com
+mollyc925@gmail.com
 
 <!---
 molly-kholodova/molly-kholodova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
